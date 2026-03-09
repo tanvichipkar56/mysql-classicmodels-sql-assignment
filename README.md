@@ -39,6 +39,3 @@ ClassicModels sample database which simulates a **retail company selling scale m
 - MySQL
 - SQL
 - ClassicModels Dataset
-
-## Author
-Tanvi
